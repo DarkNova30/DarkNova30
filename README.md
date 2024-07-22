@@ -1,0 +1,41 @@
+# Hi there, I'm DarkNova (Ayan Sajwan) 👋
+
+## About Me
+I'm a final-year undergraduate student at Delhi Technological University (DTU), majoring in Engineering Physics/Applied Physics with a minor in Computer Science-Machine Learning. I am passionate about leveraging machine learning, data science, and AI to solve complex real-world problems.
+## Skills and Interests
+- **🛠 Programming Languages:** C/C++, Python, MATLAB, LaTeX
+- **📚 Technologies and Libraries:** NumPy, SciPy, Pandas, matplotlib, seaborn, XGBoost, TensorFlow, Keras, Scikit-learn, PyTorch, PIL, OpenCV, NLTK, AstroPy
+- **🧰 Technical Tools:** Jupyter Notebook, Google Colab, Anaconda, Excel, Tableau, GitHub
+- **🔍 Areas of Expertise:** 
+  - Deep Learning
+  - Data Analysis and Preprocessing
+  - Data science, Machine Learning
+  - Astrophysics and Image Processing
+  - Cryptography and Cryptanalysis
+  - Research Methodology and Experiment Design
+- **Interests :**
+  - Astrophysics, Astronomy
+
+
+## Currently learning
+  - LLM,GANs
+  - Deployment (Flask, FastAPI, Django, AWS (SageMaker))
+  - Apache spark,hadoop
+## Publications
+- **Paper Title:** Comparative Analysis of ResNet and DenseNet for Differential Cryptanalysis of SPECK 32/64 Lightweight Block Cipher
+  - **Conference:** International Conference on Cryptology & Network Security with Machine Learning (ICCNSML 2023), Springer, Singapore.
+  - **Link:** [Springer Link](https://link.springer.com/chapter/10.1007/978-981-97-0641-9_34)
+
+## Get in Touch
+- **Email:** [Mail](ayansajwan2003@gmail.com)
+- **LinkedIn:** [Linkedin/AyanSajwan](www.linkedin.com/in/ayan-sajwan-06625a170)
+
+
+
+
+
+
+<!---
+DarkNova30/DarkNova30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

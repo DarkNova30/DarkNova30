@@ -3,11 +3,11 @@
 ## About Me
 I'm a final-year undergraduate student at Delhi Technological University (DTU), majoring in Engineering Physics/Applied Physics with a minor in Computer Science-Machine Learning. I am passionate about leveraging machine learning, data science, and AI to solve complex real-world problems.
 ## Skills and Interests
-- **🛠 Programming Languages:** C/C++, Python, MATLAB, LaTeX
+- **🛠 Programming Languages:** C/C++, Python, MATLAB, LaTeX, SQL
 - **📚 Technologies and Libraries:** NumPy, SciPy, Pandas, matplotlib, seaborn, XGBoost, TensorFlow, Keras, Scikit-learn, PyTorch, PIL, OpenCV, NLTK, AstroPy
-- **🧰 Technical Tools:** Jupyter Notebook, Google Colab, Anaconda, Excel, Tableau, GitHub
+- **🧰 Technical Tools:** Jupyter Notebook, Google Colab, Anaconda, Excel, Tableau, Git-GitHub, Tableau, MySQL, XAMMP
 - **🔍 Areas of Expertise:** 
-  - Deep Learning
+  - Deep Learning, neural networks
   - Data Analysis and Preprocessing
   - Data science, Machine Learning
   - Astrophysics and Image Processing
@@ -20,7 +20,7 @@ I'm a final-year undergraduate student at Delhi Technological University (DTU), 
 ## Currently learning
   - LLM,GANs
   - Deployment (Flask, FastAPI, Django, AWS (SageMaker))
-  - Apache spark,hadoop
+  - Apache spark,hadoop, CI/CD
 ## Publications
 - **Paper Title:** Comparative Analysis of ResNet and DenseNet for Differential Cryptanalysis of SPECK 32/64 Lightweight Block Cipher
   - **Conference:** International Conference on Cryptology & Network Security with Machine Learning (ICCNSML 2023), Springer, Singapore.

@@ -29,7 +29,7 @@ I'm a final-year undergraduate student at Delhi Technological University (DTU), 
 - **Paper Title:** Investigation of Security Vulnerabilities in NVM Based Persistent TinyML Hardware
   - **Journal:** IEEE Embedded Systems Letters
   - **Link:** [Early Access](https://ieeexplore.ieee.org/document/10750517)
-  - 
+    
 ## Get in Touch
 - **Email:** [Mail](ayansajwan2003@gmail.com)
 - **LinkedIn:** [Linkedin/AyanSajwan](www.linkedin.com/in/ayan-sajwan-06625a170)
